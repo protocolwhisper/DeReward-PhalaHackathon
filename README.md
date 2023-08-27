@@ -18,5 +18,11 @@ Derewars emerges as a beacon for a transparent, fair, and decentralized reward s
 ## 🚀 **Conclusion**
 In a decentralized ecosystem, why centralize rewards? Derewars is our step towards a community-driven future. Be part of this revolution: contribute, engage, and let's co-create a decentralized tomorrow.
 
+## Submission Links 
+
+Links for the submission 
+
+Consumer Oracle : https://mumbai.polygonscan.com/address/0x277822b5c12eb6e2a5f7a9107b6b68869b9b2147
+Attestor address : 0xa38a769fbb1ad82a221f013728a4fe7e63c646d9
 ---
 
